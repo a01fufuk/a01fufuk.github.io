@@ -49,8 +49,8 @@ export default function About() {
         <p className="text-zinc-400 leading-relaxed text-base md:text-lg">
           Hello! I'm Alexander Jason Lauwren, a backend engineer who focuses on
           building clean and reliable systems that solve real problems. I’ve
-          worked on platforms serving millions of users. From public transport
-          tools to e-ticketing systems. Focusing on performance, scalability,
+          worked on platforms serving millions of users -- from public transport
+          tools to e-ticketing systems -- focusing on performance, scalability,
           and simplicity.
         </p>
         <p className="text-zinc-400 leading-relaxed text-base md:text-lg">

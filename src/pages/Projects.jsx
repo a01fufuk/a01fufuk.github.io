@@ -2,6 +2,14 @@ import { useState } from "react";
 
 const projectData = [
   {
+    title: "TiketKapal.com",
+    role: "Product Lead & Backend Engineer",
+    description:
+      "Spearheaded development of a ferry booking platform for the public, with native and web support via React and Flutter. Supported ferry agents in reaching broader audiences online.",
+    tech: ["Golang", "PostgreSQL", "MongoDB", "React", "Flutter"],
+    image: "images/tiketkapal.jpeg",
+  },
+  {
     title: "Boarding Management System (BMS)",
     role: "Product Lead & Backend Engineer",
     description:
@@ -16,14 +24,6 @@ const projectData = [
       "Initiated the development of a digital Point-of-Sale system for ferry agents, digitalizing the ferry ticketing process. Integrated external stackholder's APIs that led to PT. MKP's Public Transport product line.",
     tech: ["Golang", "PostgreSQL", "MongoDB", "React", "Electron"],
     image: "images/loket.png",
-  },
-  {
-    title: "TiketKapal.com",
-    role: "Product Lead & Backend Engineer",
-    description:
-      "Spearheaded development of a ferry booking platform for the public, with native and web support via React and Flutter. Supported ferry agents in reaching broader audiences online.",
-    tech: ["Golang", "PostgreSQL", "MongoDB", "React", "Flutter"],
-    image: "images/tiketkapal.jpeg",
   },
   {
     title: "Lifestyle TiketKapal.com",
